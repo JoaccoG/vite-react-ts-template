@@ -4,4 +4,5 @@ export default {
   testEnvironment: 'node',
   testMatch: ['**/src/**/*.test.ts'],
   resolver: 'jest-ts-webcompat-resolver',
+  setupFilesAfterEnv: ['./jest.setup.js'],
 };
