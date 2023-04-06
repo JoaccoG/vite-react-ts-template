@@ -1,6 +1,6 @@
-# New React Project Template
+# Portfolio with Vite + React + TS
 
-This is a template for a new React app. Includes:
+This is my portfolio configs. Includes:
 
 - Editorconfig
 - ESLint
